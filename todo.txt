@@ -1,0 +1,12 @@
+
+# z position over iteration
+* make initial
+* Add horizontal lines for the actual values
+* Make colors match
+
+# loss over space
+* Add z dots
+* Make animation how they move
+* Add gradient arrows?
+
+
