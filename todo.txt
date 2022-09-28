@@ -1,5 +1,6 @@
 # General Todo
 
+* Get spiral set from torch
 
 # z position over iteration
 * make initial
