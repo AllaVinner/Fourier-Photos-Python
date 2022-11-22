@@ -13,6 +13,10 @@
 * Add gradient arrows?
 
 # Future Plan
-*
+* Create visualisation module
+    * L(x)
+    * L(x1, x2)
+    * x1(t), x2(t), l(t)?, movable ... 
+    *
 * 
 *
