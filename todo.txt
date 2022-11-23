@@ -17,6 +17,6 @@
     * L(x)
     * L(x1, x2)
     * x1(t), x2(t), l(t)?, movable ... 
-    *
+    * Graf over compensation parameter
 * 
 *
